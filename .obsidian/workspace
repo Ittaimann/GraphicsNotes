@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6a9865bba1fe9841",
+        "id": "f050b8107d6686aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source notes.md",
+            "file": "General Notes/Notes on gcn.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"- [mcGuire Phenomenological Transparency](https://research.nvidia.com/sites/default/files/pubs/2017-03_Phenomenological-Transparency/McGuire2017Transparency.pdf)\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source notes.md",
+                "file": "General Notes/Notes on gcn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,11 +83,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6a9865bba1fe9841",
+  "active": "f050b8107d6686aa",
   "lastOpenFiles": [
-    "Source notes.md"
+    "General Notes/Untitled 1.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Source notes.md",
+    "Reading Notes/McGuire Phenomenological Transparency.md",
+    "Reading Notes/McGuire Motion Blur.md",
+    "Reading Notes/McGuire order independent transparency.md",
+    "Reading Notes/Untitled.md"
   ]
 }
