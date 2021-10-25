@@ -16,7 +16,7 @@
 - 
 ## white papers
 - [mcGuire motion blur (2013)](https://casual-effects.com/research/Guertin2013MotionBlurReport/index.html)
-- [mcGuire Phenomenological Transparency](https://research.nvidia.com/sites/default/files/pubs/2017-03_Phenomenological-Transparency/McGuire2017Transparency.pdf) 
+- [McGuire Phenomenological Transparency](https://research.nvidia.com/sites/default/files/pubs/2017-03_Phenomenological-Transparency/McGuire2017Transparency.pdf) 
 ## PowerPoints of note (download links)
 ## isas
 - [amd radeon isa](https://developer.amd.com/wp-content/resources/RDNA2_Shader_ISA_November2020.pdf)
