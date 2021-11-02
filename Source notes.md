@@ -13,7 +13,8 @@
 - [aras blog](https://aras-p.info/)
 - [arseny kapoulkine blog](https://zeux.io/)
 - [mjp](https://therealmjp.github.io/)
-- 
+- [filmicworlds](https://filmicworlds.com). 
+
 ## white papers
 - [mcGuire motion blur (2013)](https://casual-effects.com/research/Guertin2013MotionBlurReport/index.html)
 - [McGuire Phenomenological Transparency](https://research.nvidia.com/sites/default/files/pubs/2017-03_Phenomenological-Transparency/McGuire2017Transparency.pdf) 
