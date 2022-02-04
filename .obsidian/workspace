@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source notes.md",
+            "file": "Reading Notes/Advances2009/LittleBigPlanetPostMortem.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source notes.md",
+                "file": "Reading Notes/Advances2009/LittleBigPlanetPostMortem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "f050b8107d6686aa",
   "lastOpenFiles": [
+    "Reading Notes/Advances2009/LittleBigPlanetPostMortem.md",
+    "Reading Notes/Advances2009/index.md",
+    "Reading Notes/Advances2009/LittleBigPlaentPostMortem.md",
     "Source notes.md",
     "General Notes/Notes on gcn.md",
     "General Notes/Barriers.md",
     "Reading Notes/McGuire Motion Blur.md",
     "Reading Notes/McGuire Phenomenological Transparency.md",
     "[McGuire Phenomenological Transparency.md",
-    "General Notes/Untitled 1.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Reading Notes/McGuire order independent transparency.md"
+    "General Notes/Untitled 1.md"
   ]
 }
