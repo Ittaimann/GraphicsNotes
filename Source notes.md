@@ -1,5 +1,3 @@
-# notebook for any graphics notes or resources I encounter... god help me
-
 ## documentation
 - [chunked vulkan](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html)
 ## tutorials
@@ -37,3 +35,4 @@
 - [fabian geilsen (adjacent)](https://twitter.com/rygorous)
 - [seb Aaltonen](https://twitter.com/SebAaltonen)
 - [mjp](https://twitter.com/mynameismjp)
+- [Alan Wolfe](blog.demofox.org)
