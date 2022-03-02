@@ -14,6 +14,8 @@
 - [filmicworlds](https://filmicworlds.com). 
 -[inigo quilez](https://www.iquilezles.org/index.html)
 - [kostas anagostou](https://interplayoflight.wordpress.com/)
+- [Alan Wolfe](blog.demofox.org)
+
 ## white papers
 - [mcGuire motion blur (2013)](https://casual-effects.com/research/Guertin2013MotionBlurReport/index.html)
 - [McGuire Phenomenological Transparency](https://research.nvidia.com/sites/default/files/pubs/2017-03_Phenomenological-Transparency/McGuire2017Transparency.pdf) 
@@ -35,4 +37,3 @@
 - [fabian geilsen (adjacent)](https://twitter.com/rygorous)
 - [seb Aaltonen](https://twitter.com/SebAaltonen)
 - [mjp](https://twitter.com/mynameismjp)
-- [Alan Wolfe](blog.demofox.org)
