@@ -1,6 +1,7 @@
 # Vulkan Synchronization
 
 [khronos docs](https://www.khronos.org/blog/understanding-vulkan-synchronization)
+
 ## QueueSync
 ### CPU-GPU
 on VkQueueSubmit one of the input/outputs is a VkFence. VkFence allows the cpu to check for completion of the queue. 
