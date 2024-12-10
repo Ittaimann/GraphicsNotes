@@ -1,4 +1,5 @@
 # Shipping dynamic global illumination in frostbite 
+## NOTE: PLEASE READ THE PREVIOUS PAPER BEFORE THIS ONE (the 2021 one)
 - Frostbite has multipe diffuse GI systems availble ranging from preomcputed, parital precompute, and streaming irradiance volumes
 - This has hit limits in large open worlds, dynamic environments with destruction, procedural and UGC.
 ## Dynamic Global illumination
